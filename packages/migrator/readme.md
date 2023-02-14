@@ -1,3 +1,8 @@
+# This is a temporary fork of @slonik/migrator.
+
+- This is a patch that works for now until @slonik/migrator is compatible with slonik v33.
+- Focuses only on migration by .sql files.
+
 # @slonik/migrator
 
 A cli migration tool for postgres, using [slonik](https://npmjs.com/package/slonik).

@@ -1,3 +1,8 @@
+# This is a temporary fork of @slonik/migrator.
+
+- This is a patch that works for now until @slonik/migrator is compatible with slonik v33.
+- Focuses only on migration by .sql files.
+
 # slonik-tools
 
 [![Node CI](https://github.com/mmkal/slonik-tools/workflows/CI/badge.svg)](https://github.com/mmkal/slonik-tools/actions?query=workflow%3ACI)
